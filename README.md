@@ -1,4 +1,4 @@
-![inovue's GitHub Card](https://card.supecial.com/inovue/svg)
+![inovue's GitHub Card](https://card.fromgh.com/inovue/svg)
 
 <!--
 **inovue/inovue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
